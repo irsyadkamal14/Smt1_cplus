@@ -7,6 +7,8 @@ using namespace std;
 int main()
 {
     int n[] = {7};
+    
+    cout << "Muhammad Irsyad Kamal" << endl;
 
     cout << "Angka 1" << setw(13) << "Angka 2" << endl;
 
